@@ -1,5 +1,6 @@
 from uuid import uuid4
 
+from api.permissions import IsAdmin
 from django.core.mail import send_mail
 from django.shortcuts import get_object_or_404
 from rest_framework import decorators, filters, status, views, viewsets
@@ -8,7 +9,6 @@ from rest_framework.permissions import IsAuthenticated
 from rest_framework.response import Response
 from rest_framework_simplejwt.tokens import AccessToken
 
-from api.permissions import IsAdmin
 from .models import User
 from .serializers import (CreateUserTokenSerializer, SignupUserSerializer,
                           UserCantChageRoleSerializer, UserSerializer)
