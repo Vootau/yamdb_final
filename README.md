@@ -46,4 +46,9 @@ python manage.py runserver
 
 python manage.py createsuperuser
 ```
+Server_ip:
+
+```
+158.160.5.174
+```
 
