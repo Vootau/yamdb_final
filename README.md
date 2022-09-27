@@ -1,4 +1,4 @@
-![Build Status](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)(https://github.com/vootau/yamdb_final/workflows/main.yml)
+![Build Status](https://github.com/vootau/yamdb_final/actions/workflows/main.yml/badge.svg)
 
 ### How to start project:
 
@@ -50,5 +50,11 @@ Server_ip:
 
 ```
 158.160.5.174
+
+List of titles:
+https://158.160.5.174/api/v1/titles/
+
+Admin:
+https://158.160.5.174/admin/
 ```
 
