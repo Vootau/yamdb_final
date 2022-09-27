@@ -1,4 +1,4 @@
-![Deploy and sending message](https://github.com/vootau/yamdb_final/workflows/main.yml/badge.svg?event=push)](https://github.com/vootau/yamdb_final/actions/workflows/main.yml)
+! [workflow status](https://github.com/vootau/yamdb_final/workflows/main.yml/badge.svg)
 
 ### How to start project:
 
