@@ -1,4 +1,4 @@
-![Build Status](https://github.com/vootau/yamdb_final/workflows/main.yml/badge.svg)](https://github.com/vootau/yamdb_final/workflows/main.yml)
+![Build Status](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)(https://github.com/vootau/yamdb_final/workflows/main.yml)
 
 ### How to start project:
 
